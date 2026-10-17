@@ -1,4 +1,4 @@
-# Unit 01: Mechanics
+# Unit 01: Mechanics-I
 
 **Rest and Motion: Kinematics → Rotational Mechanics**  
 *Original revision notes following Chapters 3–10 of H. C. Verma, Concepts of Physics, Volume 1*
